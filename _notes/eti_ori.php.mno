@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_origen" value="name:ori_id;datatype:int,name:ori_name;datatype:string" />
+	<infoitem key="UD_costumers" value="name:cos_id;datatype:int,name:cos_corpname;datatype:string,name:cos_corpname2;datatype:string" />
+</info>

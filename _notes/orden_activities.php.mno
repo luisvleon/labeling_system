@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_costumer" value="name:cos_id;datatype:int,name:cos_names;datatype:string,name:cos_corpname;datatype:string,name:cos_ruc;datatype:string" />
+	<infoitem key="UD_shipto" value="name:shipto_id;datatype:int,name:shipto_name;datatype:string,name:shipto_address;datatype:string,name:shipto_phono;datatype:string,name:user_id;datatype:int" />
+	<infoitem key="UD_orden" value="name:invoice_id;datatype:int,name:cos_id;datatype:int,name:shipto_id;datatype:int,name:fecha_in;datatype:string,name:fecha_out;datatype:string,name:comments;datatype:blob,name:status;datatype:int,name:user_id;datatype:int,name:cos_id;datatype:int,name:cos_names;datatype:string,name:cos_corpname;datatype:string,name:cos_ruc;datatype:string,name:cos_email;datatype:string,name:cos_phone1;datatype:string,name:cos_phone2;datatype:string,name:cos_fax;datatype:string,name:pais_label;datatype:string,name:ciudad_label;datatype:string,name:cos_adress;datatype:string,name:cos_comments;datatype:string,name:cos_userid;datatype:int,name:shipto_id;datatype:int,name:cos_id;datatype:int,name:shipto_name;datatype:string,name:shipto_address;datatype:string,name:shipto_phono;datatype:string,name:user_id;datatype:int,name:email;datatype:string,name:emails;datatype:string,name:user_names;datatype:string" />
+	<infoitem key="UD_maximo" value="name:MAX(ord_id);datatype:int" />
+	<infoitem key="UD_etiquetas" value="name:SUM(`qty` * `pieces`);datatype:real" />
+	<infoitem key="UD_items" value="name:SUM(`qty`);datatype:real" />
+</info>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_description" value="name:des_id;datatype:int,name:des_text;datatype:string" />
+	<infoitem key="UD_origen" value="name:ori_id;datatype:int,name:ori_name;datatype:string" />
+	<infoitem key="UD_marcas" value="name:marca_id;datatype:int,name:marca_text;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_material" value="name:stu_id;datatype:int,name:stu_text;datatype:string" />
+	<infoitem key="UD_item" value="name:inv_id;datatype:int,name:invoice_id;datatype:int,name:box;datatype:string,name:modelo;datatype:string,name:des_id;datatype:int,name:qty;datatype:int,name:marca_id;datatype:int,name:ori_id;datatype:int,name:material;datatype:string,name:pieces;datatype:int,name:precio;datatype:real,name:costo;datatype:real,name:user_id;datatype:int" />
+</info>

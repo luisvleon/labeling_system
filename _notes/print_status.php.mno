@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_status" value="name:sta_id;datatype:int,name:sta_label;datatype:string" />
+	<infoitem key="UD_orden" value="name:ord_id;datatype:int,name:invoice_id;datatype:int,name:ord_status;datatype:int" />
+</info>

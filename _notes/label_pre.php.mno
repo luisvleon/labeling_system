@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_costumer" value="name:cos_id;datatype:int,name:cos_corpname;datatype:string,name:cos_ruc;datatype:string,name:size_text;datatype:string,name:size_label;datatype:string,name:ori_name;datatype:string" />
+	<infoitem key="UD_materiales" value="name:stu_text;datatype:string,name:stu_percen;datatype:string" />
+	<infoitem key="UD_instrucciones" value="name:par_label;datatype:string" />
+	<infoitem key="UD_MAT" value="name:stu_id;datatype:int,name:stu_text;datatype:string" />
+</info>

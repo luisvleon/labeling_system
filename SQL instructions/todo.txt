@@ -1,0 +1,14 @@
+TRUNCATE TABLE tbl_duplicate;
+TRUNCATE TABLE tbl_mat_labels;
+
+TRUNCATE TABLE tbl_order;
+
+TRUNCATE TABLE tbl_par_labels;
+
+TRUNCATE TABLE tbl_invoice;
+
+
+
+
+
+

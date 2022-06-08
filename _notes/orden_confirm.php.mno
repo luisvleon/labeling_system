@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:cos_id;datatype:int,name:cos_names;datatype:string,name:cos_corpname;datatype:string,name:cos_ruc;datatype:string,name:cos_adress;datatype:string" />
+	<infoitem key="UD_ship" value="name:shipto_id;datatype:int,name:cos_id;datatype:int,name:shipto_name;datatype:string,name:shipto_address;datatype:string,name:shipto_phono;datatype:string,name:user_id;datatype:int,name:email;datatype:string" />
+	<infoitem key="UD_maximo" value="name:MAX(invoice_id);datatype:int" />
+</info>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_costumer" value="name:cos_id;datatype:int,name:cos_corpname;datatype:string" />
+	<infoitem key="UD_origen" value="name:ori_id;datatype:int,name:ori_name;datatype:string" />
+	<infoitem key="UD_medida" value="name:size_id;datatype:int,name:size_text;datatype:string,name:size_label;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:par_id;datatype:int,name:par_label;datatype:string,name:ruta;datatype:string,name:status;datatype:int" />
+	<infoitem key="UD_labado" value="name:par_id;datatype:int,name:label;datatype:string,name:par_label;datatype:string,name:ruta;datatype:string,name:status;datatype:int" />
+	<infoitem key="UD_blanqueado" value="name:id_param;datatype:int,name:label;datatype:string,name:label_param;datatype:string,name:ruta;datatype:string" />
+	<infoitem key="UD_secado" value="name:id_param;datatype:int,name:label;datatype:string,name:label_param;datatype:string,name:ruta;datatype:string" />
+	<infoitem key="UD_planchado" value="name:id_param;datatype:int,name:label;datatype:string,name:label_param;datatype:string,name:ruta;datatype:string" />
+	<infoitem key="UD_lav_pro" value="name:id_param;datatype:int,name:label;datatype:string,name:label_param;datatype:string,name:ruta;datatype:string" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:des_id;datatype:int,name:des_text;datatype:string" />
+	<infoitem key="UD_avtivo" value="name:cos_id;datatype:int" />
+</info>

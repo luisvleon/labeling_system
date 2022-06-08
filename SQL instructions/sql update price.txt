@@ -1,0 +1,4 @@
+
+UPDATE `tbl_inv_simple` SET `precio`=15.99 WHERE `marca_id`=57  AND `des_id`=377 AND `precio`=12.99 AND `invoice_id`=45;
+
+UPDATE `tbl_item_data` SET `price1_item`=(`price1_item` * 0.1) +`price1_item`;

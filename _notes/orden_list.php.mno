@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_ordenes" value="name:ord_id;datatype:int,name:invoice_id;datatype:int,name:cos_id;datatype:int,name:ori_id;datatype:int,name:size_id;datatype:int,name:ord_date;datatype:date,name:cantidad;datatype:string,name:ord_status;datatype:int,name:user_id;datatype:int" />
+	<infoitem key="UD_invoices" value="name:invoice_id;datatype:int,name:activo;datatype:int,name:fecha_in;datatype:string,name:fecha_out;datatype:string,name:cos_names;datatype:string,name:cos_corpname;datatype:string,name:cos_ruc;datatype:string,name:shipto_address;datatype:string" />
+</info>

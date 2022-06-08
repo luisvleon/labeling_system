@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_description" value="name:des_id;datatype:int,name:cos_id;datatype:int,name:des_text;datatype:string" />
+	<infoitem key="UD_origen" value="name:ori_id;datatype:int,name:ori_name;datatype:string" />
+	<infoitem key="UD_material" value="name:stu_id;datatype:int,name:stu_text;datatype:string" />
+	<infoitem key="UD_marcas" value="name:marca_id;datatype:int,name:cos_id;datatype:int,name:marca_text;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_invoice" value="name:invoice_id;datatype:int,name:cos_id;datatype:int,name:id_comp_inv;datatype:int,name:shipto_id;datatype:int,name:fecha_in;datatype:string,name:fecha_out;datatype:string,name:comments;datatype:blob,name:precio;datatype:real,name:status;datatype:int,name:user_id;datatype:int,name:activo;datatype:int,name:cos_names;datatype:string,name:cos_corpname;datatype:string,name:cos_corpname2;datatype:string,name:cos_ruc;datatype:string" />
+	<infoitem key="UD_inv_simple" value="name:inv_id;datatype:int,name:invoice_id;datatype:int,name:box;datatype:int,name:modelo;datatype:string,name:des_id;datatype:int,name:qty;datatype:int,name:verificado;datatype:int,name:marca_id;datatype:int,name:ori_id;datatype:int,name:material;datatype:string,name:pieces;datatype:int,name:precio;datatype:real,name:costo;datatype:real,name:pvp;datatype:real,name:user_id;datatype:int,name:des_text;datatype:string,name:marca_text;datatype:string,name:ori_name;datatype:string" />
+	<infoitem key="UD_status" value="name:invoice_id;datatype:int,name:cos_id;datatype:int,name:id_comp_inv;datatype:int,name:shipto_id;datatype:int,name:fecha_in;datatype:string,name:fecha_out;datatype:string,name:comments;datatype:blob,name:precio;datatype:real,name:status;datatype:int,name:user_id;datatype:int,name:activo;datatype:int" />
+	<infoitem key="UD_etiqtotal" value="name:SUM(`qty` * `pieces`);datatype:real" />
+	<infoitem key="UD_tallas" value="name:size_id;datatype:int,name:size_text;datatype:string,name:size_label;datatype:string" />
+</info>

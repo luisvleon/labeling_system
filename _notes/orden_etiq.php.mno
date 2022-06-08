@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_cliente" value="name:invoice_id;datatype:int,name:cos_names;datatype:string,name:cos_id;datatype:int,name:cos_corpname;datatype:string,name:cos_corpname2;datatype:string,name:cos_ruc;datatype:string,name:fecha_in;datatype:string,name:fecha_out;datatype:string" />
+	<infoitem key="UD_etiquetas" value="name:ord_id;datatype:int,name:invoice_id;datatype:int,name:simple_id;datatype:int,name:cos_id;datatype:int,name:ori_id;datatype:int,name:size_id;datatype:int,name:id_lavado;datatype:int,name:id_blan;datatype:int,name:id_sec;datatype:int,name:id_plan;datatype:int,name:id_pro;datatype:int,name:ord_date;datatype:date,name:cantidad;datatype:string,name:forro;datatype:string,name:ord_status;datatype:int,name:user_id;datatype:int,name:modelo;datatype:string,name:size_id;datatype:int,name:size_text;datatype:string,name:size_label;datatype:string,name:ori_name;datatype:string,name:stu_percen;datatype:string,name:stu_text;datatype:string,name:sta_label;datatype:string" />
+	<infoitem key="UD_total" value="name:total;datatype:real" />
+	<infoitem key="UD_maximo" value="name:maxi;datatype:int" />
+</info>

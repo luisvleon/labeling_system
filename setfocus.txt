@@ -1,0 +1,28 @@
+<body onload="setFocus();">
+
+
+
+<script type="text/javascript">
+<!--
+var formObj = document.getElementById('form1');
+var inputArr = formObj.getElementsByTagName("input");
+for (i=0; i<inputArr.length-1; i++)
+{
+inputArr[i].onfocus = function()
+{
+this.style.backgroundColor = "yellow";
+};
+
+inputArr[i].onblur = function()
+{
+this.style.backgroundColor = "";
+};
+}
+
+-->
+</script>
+<script type="text/javascript">
+function setFocus(){
+document.getElementById("txt_box").focus();
+}
+</script>

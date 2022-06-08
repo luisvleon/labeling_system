@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Asterisco {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #F00;
+}
+.Titulo {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: large;
+	font-weight: bold;
+	color: #096;
+	text-decoration: underline;
+}
+.fodook {
+	background-color: #0F9;
+}
+
+.cabecera {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFF;
+}
+.cajagrande {
+	font-size: 24px;
+	font-weight: bold;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+	text-transform: uppercase;
+}
+.cajagrande_mediana {
+	font-size: 16px;
+	font-weight: bold;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+	text-transform: uppercase;
+}
+
+.cajagrandeSIN {
+	font-size: 24px;
+	font-weight: bold;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+	text-transform: none;
+}
+
+.opciones {
+	font-size: medium;
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_costumer" value="name:cos_id;datatype:int,name:cos_corpname;datatype:string,name:cos_ruc;datatype:string" />
+	<infoitem key="UD_origen" value="name:ori_id;datatype:int,name:ori_name;datatype:string" />
+	<infoitem key="UD_size" value="name:size_id;datatype:int,name:size_text;datatype:string,name:size_label;datatype:string" />
+	<infoitem key="UD_maximo" value="name:MAX(ord_id);datatype:int" />
+</info>

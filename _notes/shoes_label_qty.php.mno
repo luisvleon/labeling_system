@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_label" value="name:id_shoe_label;datatype:int,name:costumer;datatype:int,name:capellada;datatype:int,name:forro;datatype:int,name:plantilla;datatype:int,name:zuela;datatype:int,name:origin;datatype:int,name:cantidad;datatype:int,name:status;datatype:int,name:user;datatype:int" />
+	<infoitem key="UD_costumer" value="name:cos_corpname;datatype:string,name:cos_corpname2;datatype:string" />
+	<infoitem key="UD_origen" value="name:ori_name;datatype:string" />
+	<infoitem key="UD_maximo" value="name:maximo;datatype:int" />
+</info>

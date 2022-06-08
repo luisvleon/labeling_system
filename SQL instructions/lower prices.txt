@@ -1,0 +1,6 @@
+UPDATE `tbl_inv_simple` SET `precio` = `precio` - 1
+
+
+UPDATE `tbl_inv_simple` SET `precio` = `precio` - 1 WHERE `des_id` = 197 AND `marca_id` = 149
+
+UPDATE `tbl_inv_simple` SET `precio` = `precio` - 1 WHERE `precio` > 9.99

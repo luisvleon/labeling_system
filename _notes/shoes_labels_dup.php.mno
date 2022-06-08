@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_maximo" value="name:maximo;datatype:int" />
+	<infoitem key="UD_costu" value="name:cos_id;datatype:int,name:cos_names;datatype:string" />
+	<infoitem key="UD_ori" value="name:ori_id;datatype:int,name:ori_name;datatype:string" />
+	<infoitem key="UD_cape" value="name:id_mat;datatype:int,name:mat_text;datatype:string" />
+	<infoitem key="UD_forro" value="name:id_forro;datatype:int,name:text_forro;datatype:string" />
+	<infoitem key="UD_plan" value="name:id_plan;datatype:int,name:text_plan;datatype:string" />
+	<infoitem key="UD_zuela" value="name:id_zuela;datatype:int,name:text_zuela;datatype:string" />
+	<infoitem key="UD_label" value="name:id_shoe_label;datatype:int,name:invoice_id;datatype:int,name:costumer;datatype:int,name:estilo;datatype:string,name:size;datatype:string,name:marca;datatype:int,name:capellada_text;datatype:string,name:forro_text;datatype:string,name:plantilla_text;datatype:string,name:zuela_text;datatype:string,name:hiddelavado;datatype:int,name:origin;datatype:int,name:cantidad;datatype:int,name:status;datatype:int,name:user;datatype:int" />
+	<infoitem key="UD_marcas" value="name:marca_id;datatype:int,name:cos_id;datatype:int,name:marca_text;datatype:string" />
+</info>

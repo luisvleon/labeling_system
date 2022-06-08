@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:user_id;datatype:int,name:user_names;datatype:string" />
+	<infoitem key="UD_costu" value="name:cos_id;datatype:int,name:cos_names;datatype:string" />
+	<infoitem key="UD_mat" value="name:id_mat;datatype:int,name:mat_text;datatype:string" />
+	<infoitem key="UD_ori" value="name:ori_id;datatype:int,name:ori_name;datatype:string" />
+	<infoitem key="UD_maximo" value="name:maximo;datatype:int" />
+	<infoitem key="UD_Recordset2" value="name:id_mat;datatype:int,name:mat_text;datatype:string" />
+	<infoitem key="UD_cape" value="name:id_mat;datatype:int,name:mat_text;datatype:string" />
+	<infoitem key="UD_forro" value="name:id_forro;datatype:int,name:text_forro;datatype:string" />
+	<infoitem key="UD_plan" value="name:id_plan;datatype:int,name:text_plan;datatype:string" />
+	<infoitem key="UD_zuela" value="name:id_zuela;datatype:int,name:text_zuela;datatype:string" />
+	<infoitem key="UD_marcas" value="name:marca_id;datatype:int,name:marca_text;datatype:string" />
+</info>
